@@ -1,0 +1,59 @@
+{
+  "tasks": [
+    {
+      "id": "BUS-1",
+      "title": "Other Title",
+      "status": "todo",
+      "priority": "high",
+      "points": 2
+    },
+    {
+      "id": "BUS-2",
+      "title": "Competitor analysis",
+      "status": "done",
+      "priority": "low"
+    },
+    {
+      "id": "BUS-3",
+      "title": "Develop business strategy",
+      "status": "done",
+      "priority": "high",
+      "points": 13
+    },
+    {
+      "id": "BUS-4",
+      "title": "Identify potential partners",
+      "status": "in-progress",
+      "priority": "medium",
+      "points": 3
+    },
+    {
+      "id": "BUS-5",
+      "title": "Negotiate partnerships",
+      "status": "in-progress",
+      "priority": "low",
+      "points": 8
+    },
+    {
+      "id": "BUS-6",
+      "title": "Develop marketing plan",
+      "status": "todo",
+      "priority": "high",
+      "points": 13
+    },
+    {
+      "id": "BUS-7",
+      "title": "Implement marketing plan",
+      "status": "done",
+      "priority": "high",
+      "points": 8
+    },
+    {
+      "id": "BUS-8",
+      "title": "Evaluate business performance",
+      "status": "todo",
+      "priority": "medium",
+      "points": 2
+    }
+  ]
+}
